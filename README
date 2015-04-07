@@ -1,0 +1,8 @@
+MeerKat - Meer To Meer
+======================
+
+The purpose of this Play2 Scala application is to learn basic WebSocket technology.
+
+The application consists of a single page that presents a chat room.  Our chat room 
+notifies all users when someone joins or leaves and allows users to post messages to 
+all other users in the room.
