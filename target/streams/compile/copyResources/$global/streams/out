@@ -1,3 +1,6 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/meer2Meer/conf/application.conf,/Users/nealbrandi/scalaApplications/meer2Meer/target/scala-2.11/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/meer2Meer/conf/routes,/Users/nealbrandi/scalaApplications/meer2Meer/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/persist/conf/application.conf,/Users/nealbrandi/scalaApplications/persist/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/persist/conf/evolutions,/Users/nealbrandi/scalaApplications/persist/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/persist/conf/routes,/Users/nealbrandi/scalaApplications/persist/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/persist/conf/evolutions/default,/Users/nealbrandi/scalaApplications/persist/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nealbrandi/scalaApplications/persist/conf/evolutions/default/1.sql,/Users/nealbrandi/scalaApplications/persist/target/scala-2.11/classes/evolutions/default/1.sql)[0m

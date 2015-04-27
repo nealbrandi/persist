@@ -1,8 +1,5 @@
-MeerKat - Meer To Meer
-======================
+Persist
+=======
 
-The purpose of this Play2 Scala application is to learn basic WebSocket technology.
-
-The application consists of a single page that presents a chat room.  Our chat room 
-notifies all users when someone joins or leaves and allows users to post messages to 
-all other users in the room.
+The purpose of this app is to experiment with the various persistance and
+caching technologies available in the Play2 eco system.

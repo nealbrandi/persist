@@ -1,0 +1,13 @@
+New log file opened at Sat Apr 25 00:52:54 EDT 2015 by 1267@Neals-MacBook-Pro.local
+Taking next connection to: 50244
+New client attempting to connect on port: 50245-50244
+  Address = /192.168.1.2:50244
+This client on port 50245 has uuid b99e7be4-8b45-4be2-b095-d07b51ce7313 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-b99e7be4-8b45-4be2-b095-d07b51ce7313
+Taking next connection to: 50244
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 1267@Neals-MacBook-Pro.local logs at Sat Apr 25 00:56:01 EDT 2015, goodbye.

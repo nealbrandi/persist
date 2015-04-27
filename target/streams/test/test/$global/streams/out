@@ -1,0 +1,59 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for com.novocode.junit.JUnitFramework produced 2 initial tasks for 2 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(ApplicationSpec, sbt.ForkMain$AnnotatedFingerscan@5802d68, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(IntegrationSpec, sbt.ForkMain$AnnotatedFingerscan@2ddb91d5, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunner for org.specs2.runner.Specs2Framework produced 3 initial tasks for 3 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(modelTests.ProductSpec, sbt.ForkMain$SubclassFingerscan@1f67530e, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mProductSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mDocuments should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be able to be inserted[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be able to be retrieved[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be able to be retrieved (Pattern matching)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be able to be retrieved (Parser API)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable in bulk[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable in bulk (Pattern matching)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable in bulk (Parser API)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable in bulk sorted[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable in bulk sorted (Pattern matching)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable in bulk sorted (Parser API)[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be retrievable by documentId[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be able to be deleted[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be able to be updated[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be searchable - No matching documents[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be searchable - Single match document[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m be searchable - Multiple matching documents[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ProductSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 1 second, 858 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m16 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 16 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(ApplicationSpec, sbt.ForkMain$SubclassFingerscan@fb12f9c, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mApplicationSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mApplication should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m send 404 on a bad request[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m render the index page[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ApplicationSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 417 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(IntegrationSpec, sbt.ForkMain$SubclassFingerscan@29e6fc5e, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mIntegrationSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mApplication should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m work from within a browser[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification IntegrationSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 1 second, 562 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 19, Failed 0, Errors 0, Passed 19[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	ApplicationSpec[0m
+[0m[[0mdebug[0m] [0m	IntegrationSpec[0m
+[0m[[0mdebug[0m] [0m	modelTests.ProductSpec[0m

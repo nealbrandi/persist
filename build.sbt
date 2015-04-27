@@ -1,4 +1,4 @@
-name := """Meer2Meer"""
+name := """Persist"""
 
 version := "1.0-SNAPSHOT"
 
@@ -13,5 +13,6 @@ libraryDependencies ++= Seq(
   ws
 )
 
+scalacOptions += "-feature"
 
 fork in run := true
